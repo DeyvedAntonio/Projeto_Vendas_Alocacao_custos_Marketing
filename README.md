@@ -18,6 +18,7 @@ Com base nisso, é necessário identificar o melhor perfil de cliente para ajust
 | ------- | ---------- | -------------- | ----------------------------------------- |
 | V 1.0.0 |	01/09/2024 |	Deyved Antonio |	Início da escrita da introdução e escopo. |
 | V 1.0.1 |	11/09/2024 |	Deyved Antonio |	Objetivo do projeto.                      |
+| V 1.0.2 |	11/09/2024 |	Deyved Antonio |	Criação do glossário                      |
 
 
 ## Usar imagem para mostrar o visual do projeto
