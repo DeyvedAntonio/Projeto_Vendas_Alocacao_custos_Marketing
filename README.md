@@ -13,6 +13,13 @@ Com base nisso, é necessário identificar o melhor perfil de cliente para ajust
  
 ### **Como maximizar o lucro da startup aumentando as vendas dos cursos e/ou diminuindo os custos de marketing com as campanhas?**
 
+## Histórico de versões
+| Versão  |	Data       |	Responsável    |	Descrição                                 |
+| ------- | ---------- | -------------- | ----------------------------------------- |
+| V 1.0.0 |	01/09/2024 |	Deyved Antonio |	Início da escrita da introdução e escopo. |
+| V 1.0.1 |	11/09/2024 |	Deyved Antonio |	Objetivo do projeto.                      |
+
+
 ## Usar imagem para mostrar o visual do projeto
 <div align="left">
 <img src="https://user-images.githubusercontent.com/26858993/159814407-54748ee8-5f67-410f-b36f-a5909212f931.png" width="500px" />
