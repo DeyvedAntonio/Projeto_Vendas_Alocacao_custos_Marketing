@@ -13,15 +13,6 @@ Com base nisso, é necessário identificar o melhor perfil de cliente para ajust
  
 ### **Como maximizar o lucro da startup aumentando as vendas dos cursos e/ou diminuindo os custos de marketing com as campanhas?**
 
-## Histórico de versões
-| Versão  |	Data       |	Responsável    |	Descrição                                 |
-| ------- | ---------- | -------------- | ----------------------------------------- |
-| V 1.0.0 |	01/09/2024 |	Deyved Antonio |	Início da escrita da introdução e escopo. |
-| V 1.0.1 |	11/09/2024 |	Deyved Antonio |	Objetivo do projeto.                      |
-| V 1.0.2 |	11/09/2024 |	Deyved Antonio |	Criação do glossário.                     |
-| V 1.0.3 |	11/09/2024 |	Deyved Antonio |	As premissas do projeto.                  |
-
-
 ## Premissas
 Informações importantes:
 - Valor de venda do curso online: R$ 85 reais;
@@ -31,37 +22,32 @@ Informações importantes:
 -	A campanha custou mais de R$ 58 mil reais para a empresa;
 -	O resultado das 3 campanhas foi a venda de 6.877 cursos online.
 
-
-## Usar imagem para mostrar o visual do projeto
+## Resumo dos resultados:
 <div align="left">
-<img src="https://user-images.githubusercontent.com/26858993/159814407-54748ee8-5f67-410f-b36f-a5909212f931.png" width="500px" />
+<img src="https://github.com/user-attachments/assets/d7ee21ca-35c6-4ca2-b482-74f2f553e893" width="900px" />
 </div>
-
 
 ## Tecnologias utilizadas
 
 ### Metodologia
-- CRISP-DM
+- CRISP-DM ([Clique aqui](https://medium.com/@deyved.antonio/metodologia-crisp-dm-00ee9e525b3a) para ler o artigo completo)
 
 ### Ferramentas
 - Excel
 
 ## Técnicas utilizadas
 
-## Integrações
-quais bibliotecas foram utilizadas para integração.
+## Histórico de versões
+| Versão  |	Data       |	Responsável    |	Descrição                                 |
+| ------- | ---------- | -------------- | ----------------------------------------- |
+| V 1.0.0 |	01/09/2024 |	Deyved Antonio |	Início da escrita da introdução e escopo. |
+| V 1.0.1 |	11/09/2024 |	Deyved Antonio |	Objetivo do projeto.                      |
+| V 1.0.2 |	11/09/2024 |	Deyved Antonio |	Criação do glossário.                     |
+| V 1.0.3 |	11/09/2024 |	Deyved Antonio |	As premissas do projeto.                  |
 
 ## Agradecimentos
-Muito obrigado por vocês estarem presentes nessa caminhada.
+Muito obrigado por estar presente nessa caminhada.
 
 ## Autor
-Deyved Antonio
+[Deyved Antonio](https://www.linkedin.com/in/deyvedantonio/)
 
-Linkedin:
-https://www.linkedin.com/in/deyved-antonio-161216122/
-
-Medium:
-https://medium.com/@deyved.antonio
-
-e-mail:
-deyved.antonio@gmail.com
