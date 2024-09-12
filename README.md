@@ -1,10 +1,17 @@
-### Adicione um título descritivo e badges
-# Como construir um readme atrativo
+# Vendas: Alocação de custos de Marketing
 [![](https://img.shields.io/github/license/deyvedantonio/readme_atrativo)](https://github.com/DeyvedAntonio/readme_atrativo/blob/main/LICENSE)
 
 ## Sobre o projeto
-O objetivo do projeto é recriar um readme atrativo aos recrutadores. Seguindo as dicas de Thallita Castro(@devweb_study) nessa [publicação](https://www.linkedin.com/posts/thallyta-castro_como-escrever-o-readme-ugcPost-6904060017490612224-8P7k). E as sugestões de Nelio Alves no [vídeo](https://www.youtube.com/watch?v=jIa8R69pKh8)
+<span style="color:blue"> Vendas em uma Startup </span>
 
+O Marketing Digital tomou conta da indústria de varejo. Com isso, a cada campanha de marketing para promover uma marca ou mesmo para vender os produtos, muitos dados são gerados pelas principais plataformas deste tipo de serviço. Após a pesquisa de mercado realizada, a startup desenvolveu seu produto usando metodologias ágeis e concluiu seu MVP (Minimum Viable Product: Versão inicial de um produto que já entrega valor para o cliente e permite receber feedback para os próximos ciclos de melhoria). Após o lançamento do MVP, a startup iniciou sua campanha de marketing na plataforma de anúncios do Facebook.
+
+O objetivo desta campanha era direcionar os leads (potenciais clientes) para sua landing page. Uma vez na landing page, os clientes poderiam comprar o produto. Após 2 meses de campanha de marketing, a startup recebeu os dados disponíveis na plataforma para estudar a performance das campanhas.
+
+Para melhores resultados, assim como qualquer empresa, a startup precisa aumentar as vendas e/ou diminuir os custos para maximizar o lucro da operação.
+Com base nisso, é necessário identificar o melhor perfil de cliente para ajustar o público em que os anúncios da próxima campanha serão vinculados. Portanto, o objetivo deste trabalho de Analytics é:
+ 
+### **Como maximizar o lucro da startup aumentando as vendas dos cursos e/ou diminuindo os custos de marketing com as campanhas?**
 
 ## Usar imagem para mostrar o visual do projeto
 <div align="left">
