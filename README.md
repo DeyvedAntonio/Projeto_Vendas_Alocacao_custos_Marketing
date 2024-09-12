@@ -1,5 +1,6 @@
 # Vendas: Alocação de custos de Marketing
 [![](https://img.shields.io/github/license/deyvedantonio/readme_atrativo)](https://github.com/DeyvedAntonio/readme_atrativo/blob/main/LICENSE)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## Sobre o projeto
 <span style="color:blue"> Vendas em uma Startup </span>
