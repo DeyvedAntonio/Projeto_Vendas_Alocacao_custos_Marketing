@@ -21,6 +21,12 @@ Com base nisso, é necessário identificar o melhor perfil de cliente para ajust
 | V 1.0.2 |	11/09/2024 |	Deyved Antonio |	Criação do glossário                      |
 
 
+## Premissas
+Informações importantes:
+- Valor de venda do curso online: R$ 85 reais
+- Verba de marketing para a próxima campanha: R$ 20 mil reais
+- É mais interessante realizar a análise com as campanhas que geraram mais dados (princípio da teoria frequentista).
+
 ## Usar imagem para mostrar o visual do projeto
 <div align="left">
 <img src="https://user-images.githubusercontent.com/26858993/159814407-54748ee8-5f67-410f-b36f-a5909212f931.png" width="500px" />
@@ -29,27 +35,19 @@ Com base nisso, é necessário identificar o melhor perfil de cliente para ajust
 
 ## Tecnologias utilizadas
 
-### Subdivisão 1
-- tecnologia 1.1
-- tecnologia 1.2
+### Metodologia
+- CRISP-DM
 
-### Subdivisão 2
-- tecnologia 2.1
-- tecnologia 2.2
-
-## Competências
-Informar quais competências.
+### Ferramentas
+- Excel
 
 ## Técnicas utilizadas
 
 ## Integrações
 quais bibliotecas foram utilizadas para integração.
 
-## Escopo da aplicação (opcional)
-Casos de usos, cadastros.
-
 ## Agradecimentos
-Muito obrigado, Thalita e Nelio, por vocês estarem presentes nessa caminhada.
+Muito obrigado por vocês estarem presentes nessa caminhada.
 
 ## Autor
 Deyved Antonio
