@@ -18,14 +18,19 @@ Com base nisso, é necessário identificar o melhor perfil de cliente para ajust
 | ------- | ---------- | -------------- | ----------------------------------------- |
 | V 1.0.0 |	01/09/2024 |	Deyved Antonio |	Início da escrita da introdução e escopo. |
 | V 1.0.1 |	11/09/2024 |	Deyved Antonio |	Objetivo do projeto.                      |
-| V 1.0.2 |	11/09/2024 |	Deyved Antonio |	Criação do glossário                      |
+| V 1.0.2 |	11/09/2024 |	Deyved Antonio |	Criação do glossário.                     |
+| V 1.0.3 |	11/09/2024 |	Deyved Antonio |	As premissas do projeto.                  |
 
 
 ## Premissas
 Informações importantes:
-- Valor de venda do curso online: R$ 85 reais
-- Verba de marketing para a próxima campanha: R$ 20 mil reais
-- É mais interessante realizar a análise com as campanhas que geraram mais dados (princípio da teoria frequentista).
+- Valor de venda do curso online: R$ 85 reais;
+- Verba de marketing para a próxima campanha: R$ 20 mil reais;
+- A campanha durou dois meses;
+-	A startup recebeu 38.165 cliques nos anúncios do Facebook;
+-	A campanha custou mais de R$ 58 mil reais para a empresa;
+-	O resultado das 3 campanhas foi a venda de 6.877 cursos online.
+
 
 ## Usar imagem para mostrar o visual do projeto
 <div align="left">
