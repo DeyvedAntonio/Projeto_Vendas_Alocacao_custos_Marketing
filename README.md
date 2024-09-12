@@ -45,6 +45,7 @@ Informações importantes:
 | V 1.0.1 |	11/09/2024 |	Deyved Antonio |	Objetivo do projeto.                      |
 | V 1.0.2 |	11/09/2024 |	Deyved Antonio |	Criação do glossário.                     |
 | V 1.0.3 |	11/09/2024 |	Deyved Antonio |	As premissas do projeto.                  |
+| V 1.0.4 |	12/09/2024 |	Deyved Antonio |	Cálculo dos KPI's do projeto.             |
 
 ## Agradecimentos
 Muito obrigado por estar presente nessa caminhada.
