@@ -34,9 +34,13 @@ Informações importantes:
 - CRISP-DM ([Clique aqui](https://medium.com/@deyved.antonio/metodologia-crisp-dm-00ee9e525b3a) para ler o artigo completo)
 
 ### Ferramentas
-- Excel
+- Excel;
+- Power Query.
 
 ## Técnicas utilizadas
+- Estatística descritiva:
+  - Tabela de Frequência;
+- Feature Engineering (criação de variáveis).
 
 ## Histórico de versões
 | Versão  |	Data       |	Responsável    |	Descrição                                 |
@@ -46,6 +50,7 @@ Informações importantes:
 | V 1.0.2 |	11/09/2024 |	Deyved Antonio |	Criação do glossário.                     |
 | V 1.0.3 |	11/09/2024 |	Deyved Antonio |	As premissas do projeto.                  |
 | V 1.0.4 |	12/09/2024 |	Deyved Antonio |	Cálculo dos KPI's do projeto.             |
+| V 1.0.5	| 14/09/2024	| Deyved Antonio	| Análise Exploratória de Dados e Feature Engineering. |
 
 ## Agradecimentos
 Muito obrigado por estar presente nessa caminhada.
