@@ -55,7 +55,7 @@ Informações importantes:
 | V 1.0.5	| 14/09/2024	| Deyved Antonio	| Análise Exploratória de Dados e Feature Engineering. |
 | V 1.0.6	| 14/09/2024	| Deyved Antonio	| Histograma das variáveis quantitativas. |
 | V 1.0.7	| 14/09/2024	| Deyved Antonio	| Medidas resumo das variáveis quantitativas. |
-| V 1.0.7	| 14/09/2024	| Deyved Antonio | Correlação de Pearson das variáveis quantitativas. |
+| V 1.0.8	| 24/09/2024	| Deyved Antonio | Correlação de Pearson das variáveis quantitativas. |
 
 ## Agradecimentos
 Muito obrigado por estar presente nessa caminhada.
