@@ -54,7 +54,8 @@ Informações importantes:
 | V 1.0.4 |	12/09/2024 |	Deyved Antonio |	Cálculo dos KPI's do projeto.             |
 | V 1.0.5	| 14/09/2024	| Deyved Antonio	| Análise Exploratória de Dados e Feature Engineering. |
 | V 1.0.6	| 14/09/2024	| Deyved Antonio	| Histograma das variáveis quantitativas. |
-| V 1.0.7	| 14/09/2024	| Deyved Antonio	| medidas resumo das variáveis quantitativas. |
+| V 1.0.7	| 14/09/2024	| Deyved Antonio	| Medidas resumo das variáveis quantitativas. |
+| V 1.0.7	| 14/09/2024	| Deyved Antonio | Correlação de Pearson das variáveis quantitativas. |
 
 ## Agradecimentos
 Muito obrigado por estar presente nessa caminhada.
